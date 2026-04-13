@@ -1,4 +1,4 @@
-# Network-Tools-Dashboard
+# Network Security & Diagnostics Toolkit
 
 **How this program works:**
 
